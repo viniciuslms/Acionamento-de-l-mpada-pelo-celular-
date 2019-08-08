@@ -1,3 +1,4 @@
+<h2>L&acirc;mpada com acionamento via bluetooth&nbsp;</h2>
 <p>Como Utilizar o M&oacute;dulo Bluetooth com Arduino</p>
 <p>Bluetooth &eacute; um protocolo de comunica&ccedil;&atilde;o sem fio com baixo consumo de energia onde &eacute; poss&iacute;vel fazer a transmiss&atilde;o de dados entre dispositivos. O alcance varia de 1 a 100 metros e o consumo de energia vai variar de acordo com a dist&acirc;ncia de comunica&ccedil;&atilde;o (quanto maior a dist&acirc;ncia maior o consumo).</p>
 <p><strong>A comunica&ccedil;&atilde;o via Bluetooth pode ser utilizada em:</strong></p>
